@@ -18,7 +18,7 @@ CCCC는 좋아하는 색상을 통해 영화를 추천 받는 사이트입니다
 
 사용자가 선호하는 색상을 선택하면, 해당 색상을 좋아하는 유저들이 좋아하는 영화를 추천해줍니다.
 
-<img src="./img/redlogo.png" style="zoom:25%;" /><img src="./img/yellowlogo.png" alt="yellow" style="zoom:25%;" /><img src="./img/violetlogo.png" style="zoom:25%;" />
+![](./img/colors.png)
 
 유저들은 <span style="color:red">레후아 레드</span>, <span style="color:gold">몽구스 옐로우</span>, <span style="color:Purple">포포로 바이올렛</span> 3가지 그룹으로 분류 되며, 그룹에 따라 아바타, 닉네임 색상이 다르며, 영화 추천도 다르게 받습니다.
 
